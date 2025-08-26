@@ -20,7 +20,8 @@ This web application predicts whether a patient has breast cancer based on clini
 ### ROC Curve
 ![ROC Curve](roc_curve.png)
 
-
+### Metrics vs Threshold
+![metrics vs threshold](metrics_vs_threshold.png)
 
 ## Features ✨
 - Predict probability of breast cancer (0–1)
