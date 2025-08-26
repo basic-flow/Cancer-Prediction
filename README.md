@@ -5,18 +5,21 @@ This web application predicts whether a patient has breast cancer based on clini
 
 ## Performance
 
+## 📊 Model Performance
+
 | Metric             | Value | Description                                |
 |-------------------|-------|--------------------------------------------|
-| Accuracy           | 0.97  | Overall correct predictions                |
-| ROC-AUC            | 0.97  | Model’s ability to discriminate classes   |
-| Recall / Sensitivity | 0.97 | Fraction of real cancer cases correctly identified |
-| Specificity        | 0.96  | Fraction of healthy patients correctly identified |
+| Accuracy           | **98.25%** | Overall correct predictions                |
+| ROC-AUC            | **0.9997**  | Model’s ability to discriminate classes   |
+| Recall / Sensitivity | **1.0000** | Fraction of real cancer cases correctly identified |
+| Specificity        | **0.9701** | Fraction of healthy patients correctly identified |
 
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
 ### ROC Curve
 ![ROC Curve](roc_curve.png)
+
 
 
 ## Features ✨
