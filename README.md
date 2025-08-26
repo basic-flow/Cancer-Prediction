@@ -3,6 +3,16 @@
 ## Project Overview
 This web application predicts whether a patient has breast cancer based on clinical and cytological measurements. Using machine learning (XGBoost), the app outputs the probability of cancer and provides key metrics to assess model performance.
 
+## Performance
+
+| Metric             | Value | Description                                |
+|-------------------|-------|--------------------------------------------|
+| Accuracy           | 0.97  | Overall correct predictions                |
+| ROC-AUC            | 0.97  | Model’s ability to discriminate classes   |
+| Recall / Sensitivity | 0.97 | Fraction of real cancer cases correctly identified |
+| Specificity        | 0.96  | Fraction of healthy patients correctly identified |
+
+
 ## Features ✨
 - Predict probability of breast cancer (0–1)
 - Display model performance metrics:
