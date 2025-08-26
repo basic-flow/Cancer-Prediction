@@ -1,4 +1,4 @@
-# Breast Cancer Prediction Web App
+# Breast Cancer Prediction
 
 ## Project Overview
 This web application predicts whether a patient has breast cancer based on clinical and cytological measurements. Using machine learning (XGBoost), the app outputs the probability of cancer and provides key metrics to assess model performance.
