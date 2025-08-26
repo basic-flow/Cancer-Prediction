@@ -39,7 +39,6 @@ This web application predicts whether a patient has breast cancer based on clini
 
 ## Model
 - **XGBoost Classifier**
-- **Performance:** Accuracy ≈ 0.97, ROC-AUC ≈ 0.97
 - Trained on numerical features from WBCD
 
 ## License 📜
