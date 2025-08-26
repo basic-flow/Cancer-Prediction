@@ -16,7 +16,7 @@ This web application predicts whether a patient has breast cancer based on clini
 ![Confusion Matrix](confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](roc_Curve.png)
+![ROC Curve](roc_curve.png)
 
 
 ## Features ✨
