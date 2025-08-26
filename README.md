@@ -12,6 +12,12 @@ This web application predicts whether a patient has breast cancer based on clini
 | Recall / Sensitivity | 0.97 | Fraction of real cancer cases correctly identified |
 | Specificity        | 0.96  | Fraction of healthy patients correctly identified |
 
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](roc_Curve.png)
+
 
 ## Features ✨
 - Predict probability of breast cancer (0–1)
